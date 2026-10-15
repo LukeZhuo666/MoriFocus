@@ -20,7 +20,7 @@ Swift · AppKit · SpriteKit
 
 ## 查看作品
 
-- [独立展示页](./index.html)
+- [在线展示页](https://lukezhuo666.github.io/LukeZ-BugPet/)
 - [原项目与实现记录](https://github.com/eiddiedev/BugPet)
 - [原项目预览](https://bp.eiddie.top)
 - [LukeZ 总作品集](https://lukezhuo666.github.io/LukeZ/)
